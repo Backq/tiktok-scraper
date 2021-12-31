@@ -1,0 +1,18 @@
+<component name="libraryTable">
+  <library name="konghq.unirest.java" type="repository">
+    <properties maven-id="com.konghq:unirest-java:2.2.00" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/konghq/unirest-java/2.2.00/unirest-java-2.2.00.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.6/httpclient-4.5.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore/4.4.10/httpcore-4.4.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-logging/commons-logging/1.2/commons-logging-1.2.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/commons-codec/commons-codec/1.10/commons-codec-1.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpmime/4.5.6/httpmime-4.5.6.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpasyncclient/4.1.4/httpasyncclient-4.1.4.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpcore-nio/4.4.10/httpcore-nio-4.4.10.jar!/" />
+      <root url="jar://$MAVEN_REPOSITORY$/org/json/json/20180813/json-20180813.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
